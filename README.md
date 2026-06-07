@@ -182,7 +182,7 @@ g++ -O2 -std=c++17 src/main_opencl.cpp -o bin/opencl -lOpenCL
 
 ## 🎬 Video Demo
 
-▶️ **YouTube:** [https://youtu.be/XXXXXXXXXXXXXXX](https://youtu.be/aUwi_LNslFs?si=v-az0J4N-b3i-qjW)
+▶️ **YouTube:** [https://youtu.be/aUwi_LNslFs?si=v-az0J4N-b3i-qjW](https://youtu.be/aUwi_LNslFs?si=v-az0J4N-b3i-qjW)
 
 ---
 
