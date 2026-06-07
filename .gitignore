@@ -1,0 +1,25 @@
+# Compiled binary output
+bin/
+*.o
+*.out
+*.exe
+
+# Build artifacts
+build/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor configs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Log files
+*.log
