@@ -38,9 +38,9 @@ dan juga menggunakan  tiga ukuran berbeda matrix yang berbeda — **256×256**, 
 
 | No. | Nama | NIM |
 |---|---|---|
-| 1 | [Nama Anggota 1] | [NIM] |
-| 2 | [Nama Anggota 2] | [NIM] |
-| 3 | [Nama Anggota 3] | [NIM] |
+| 1 | [Raditya Permana Putra] | [25032014093] |
+| 2 | [Faizzal Awwalu Dzikiri] | [25032014087] |
+| 3 | [Ruslan Hafidz Al Izudin] | [25032014008] |
 
 **Dosen Pengampu:** Dr. Widi Aribowo, S.T., M.T. · Harmon Prayogi, M.Sc.
 
