@@ -20,8 +20,11 @@
 ---
 
 ## 📌 Deskripsi Proyek
+Proyek ini mengimplementasikan dan membandingkan performa algoritma General Matrix Multiplication (GEMM) menggunakan tiga pendekatan komputasi yang berbeda, yaitu Sequential Computing, OpenMP, dan OpenCL. Tujuan utama proyek adalah menganalisis pengaruh paralelisme CPU dan GPU terhadap waktu eksekusi operasi perkalian matriks berukuran besar.
 
-Proyek ini mengimplementasikan **perkalian matriks (GEMM)** pada tiga ukuran berbeda — **256×256**, **1024×1024**, dan **2048×2048** — menggunakan tiga pendekatan komputasi yang berbeda, kemudian membandingkan performa, speedup, dan efisiensi masing-masing.
+Implementasi pertama menggunakan pendekatan sequential sebagai baseline pengukuran performa. Seluruh proses perhitungan dilakukan secara berurutan menggunakan satu thread CPU melalui algoritma perkalian matriks standar dengan tiga tingkat perulangan (triple nested loop).
+
+dan juga menggunakan  tiga ukuran berbeda matrix yang berbeda — **256×256**, **1024×1024**, dan **2048×2048** — menggunakan tiga pendekatan komputasi yang berbeda, kemudian membandingkan performa, speedup, dan efisiensi masing-masing.
 
 | # | File | Metode | Hardware Target |
 |---|---|---|---|
